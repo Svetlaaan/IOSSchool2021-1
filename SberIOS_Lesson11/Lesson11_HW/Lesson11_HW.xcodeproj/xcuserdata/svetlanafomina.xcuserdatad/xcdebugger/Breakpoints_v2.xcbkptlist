@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D2B155A-DECE-4AD6-9C7B-936A98C54738"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5795A3A3-8439-4D6A-8402-53BF1A22F187"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson11_HW/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "shareButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5795A3A3-8439-4D6A-8402-53BF1A22F187 - 556250b55ecd67fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson11_HW.ViewController.shareButtonTapped() -&gt; ()"
+                  moduleName = "Lesson11_HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlanafomina/Desktop/programming/Swift/IOS%20SCHOOL/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011%20-%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B%20/Lesson11_HW/Lesson11_HW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "5795A3A3-8439-4D6A-8402-53BF1A22F187 - 8e0e7c8521b87e78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIActivityType&gt;, Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lesson11_HW.ViewController.shareButtonTapped() -&gt; ()"
+                  moduleName = "Lesson11_HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svetlanafomina/Desktop/programming/Swift/IOS%20SCHOOL/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011%20-%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B%20/Lesson11_HW/Lesson11_HW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
