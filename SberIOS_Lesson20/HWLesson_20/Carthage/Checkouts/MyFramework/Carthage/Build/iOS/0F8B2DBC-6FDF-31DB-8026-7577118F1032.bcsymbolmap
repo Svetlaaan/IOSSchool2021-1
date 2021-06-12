@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 12.0.0 (clang-1200.0.32.29)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
 iPhoneOS14.4.sdk
-/Users/svetlanafomina/Library/Caches/org.carthage.CarthageKit/DerivedData/12.4_12D4e/MyFramework/cffe5225e39653244c76a08c8f85d949d788190f/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyFramework.build/Release-iphoneos/MyFramework.build/DerivedSources/MyFramework_vers.c
-/Users/svetlanafomina/Desktop/IOSSchool2021-1/SberIOS_Lesson20/HWLesson_20/Carthage/Checkouts/MyFramework
+/Users/svetlanafomina/Library/Developer/Xcode/DerivedData/MyFramework-biacrdhceifqipeqjwakmqznabrr/Build/Intermediates.noindex/ArchiveIntermediates/MyFramework/IntermediateBuildFilesPath/MyFramework.build/Release-iphoneos/MyFramework.build/DerivedSources/MyFramework_vers.c
+/Users/svetlanafomina/Desktop/MyFramework
 _$s11MyFramework0A14ViewControllerC5labelSo7UILabelCvpfiAFyXEfU_
 _$s11MyFramework0A14ViewControllerC5labelSo7UILabelCvM.resume.0
 _$s11MyFramework0A14ViewControllerCSo7UILabelCIetMAgYl_TC
@@ -37,7 +37,7 @@ _objc_classes
 Apple clang version 12.0.0 (clang-1200.0.32.28)
 <swift-imported-modules>
 Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
-/Users/svetlanafomina/Desktop/IOSSchool2021-1/SberIOS_Lesson20/HWLesson_20/Carthage/Checkouts/MyFramework/MyFramework/ViewController.swift
+/Users/svetlanafomina/Desktop/MyFramework/MyFramework/ViewController.swift
 init
 <compiler-generated>
 deinit
