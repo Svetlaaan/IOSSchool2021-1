@@ -8,21 +8,21 @@
   "tvOS" : [
 
   ],
-  "commitish" : "52231e475011ed86b6c8703499d15dc20251cca7",
+  "commitish" : "b8d6e94fe84339ce54b50c6678dae74dc2e4cc9f",
   "iOS" : [
     {
       "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "acc4715eb2cb4b231d094f4f70a4bcbe978eed6ab3fdcdb313d606c4ebb04831",
-      "name" : "MyFramework",
-      "container" : "MyFramework.xcframework",
-      "identifier" : "ios-arm64"
-    },
-    {
-      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
-      "hash" : "f8672e8b23a41d657e714a3b5fb6907ec10503afeb9f8e9add928e934c382418",
+      "hash" : "077c7cfa7e48923692a1f673b83229d3bd5b8c47661feccb2fe12a8fb47e6060",
       "name" : "MyFramework",
       "container" : "MyFramework.xcframework",
       "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "c7dc7ebfc0387e90c150bfcd7ee9b12ce8a65e9dcf028348339d7e6620d0d1b0",
+      "name" : "MyFramework",
+      "container" : "MyFramework.xcframework",
+      "identifier" : "ios-arm64"
     }
   ]
 }

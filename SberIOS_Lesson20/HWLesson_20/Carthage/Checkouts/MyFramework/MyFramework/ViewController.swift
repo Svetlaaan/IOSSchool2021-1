@@ -7,13 +7,13 @@
 
 import UIKit
 
-open class MyViewController: UIViewController {
+public class MyViewController: UIViewController {
 
-	open func changeBackground(withColor color: UIColor) {
+	public func changeBackground(withColor color: UIColor) {
 		self.view.backgroundColor = color
 	}
 
-	open lazy var label: UILabel = {
+	public var label: UILabel = {
 		let label = UILabel()
 		label.text = "It works with my Carthage!\n Tap to change color"
 		label.textAlignment = .center
@@ -22,20 +22,5 @@ open class MyViewController: UIViewController {
 		label.font = UIFont.systemFont(ofSize:20)
 		return label
 	}()
-
-	open override func viewDidLoad() {
-		super.viewDidLoad()
-
-		view.addSubview(label)
-		setAutoLayout()
-	}
-
-	func setAutoLayout() {
-		label.translatesAutoresizingMaskIntoConstraints = false
-		NSLayoutConstraint.activate([
-			label.centerXAnchor.constraint(equalTo: view.centerXAnchor),
-			label.centerYAnchor.constraint(equalTo: view.centerYAnchor)
-		])
-	}
 
 }

@@ -19,6 +19,15 @@ class ViewController: MyViewController {
 		changeBackground(withColor: colors[currentIndex])
 		view.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(handleTap)))
 		view.addSubview(label)
+		setAutoLayout()
+	}
+
+	func setAutoLayout() {
+		label.translatesAutoresizingMaskIntoConstraints = false
+		NSLayoutConstraint.activate([
+			label.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+			label.centerYAnchor.constraint(equalTo: view.centerYAnchor)
+		])
 	}
 
 	@objc func handleTap() {
