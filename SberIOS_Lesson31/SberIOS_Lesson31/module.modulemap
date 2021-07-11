@@ -1,0 +1,16 @@
+//
+//  module.modulemap
+//  SberIOS_Lesson31
+//
+//  Created by Svetlana Fomina on 11.07.2021.
+//
+
+module ObjCModule {
+	umbrella header "../ObjCFirst/Umbrella.h"
+	export *
+	
+	explicit module ObjCSubModule {
+		umbrella header "../ObjCSecond/UmbrellaSecond.h"
+		export *
+	}
+}
